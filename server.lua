@@ -1,5 +1,5 @@
 print("Bb")
-local webhook = "https://discord.com/api/webhooks/965287780584415243/k4ZTqn4NBtDYIES4O7gew-BvT72cXsBHSOQycsWPlq6Rpyv4jaOd7hstsnHJeRPv4iTS"
+local webhook = "xx"
 local logo = "https://cdn.discordapp.com/avatars/231461311270092800/02f3a1716c38c304cc90340884e58573.webp?size=80"
 ESX = nil
 
